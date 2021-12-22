@@ -11,7 +11,7 @@ Base on HTML、CSS、JQuery、Django、SQLite
 - Design concept and tech
 
 ## Screenshots
-![Screenshots](Resume/mysite/collection/static/collection/img/blog0.png)
+![Screenshots](WHR/WHR_Covid19.png)
 
 ![Screenshots](Resume/mysite/collection/static/collection/img/blog5.png)
 
