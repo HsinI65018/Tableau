@@ -1,5 +1,7 @@
 # Tableau Dashboard
 Base on Tableau API、JavaScript、HTML、CSS
+- [View Dashboard on Tableau Public](https://public.tableau.com/views/WorldHappinessReportandCovid-19/DashBoard13?:language=zh-TW&:origin=viz_share_link&:display_count=n)
+- [View Dashboard on GitHub Page](https://hsini65018.github.io/Tableau/WHR/index.html)
 
 ## World Happiness Report and Covid-19
 - 2021 world happiness map
